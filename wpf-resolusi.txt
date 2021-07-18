@@ -5,4 +5,4 @@ wpf-resolusi
 - belajar programn setiap hari
 - bisa membuat program sendiri
 - mengusai php dan database
-- mengusai html dan css
+- mengusai framework codegniter
