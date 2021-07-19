@@ -4,6 +4,7 @@ rencana konten wpf
   * ES6
   * Framework Jabascript
    ^ Viu
+   ^ React
 - Fundamental data konseptual
 - php Frameworks
   ^ Laraavel
