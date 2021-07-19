@@ -3,9 +3,11 @@ rencana konten wpf
 - javascript
   * ES6
   * Framework Jabascript
-  ^ angular
-  ^ react
+   ^ Viu
+   ^ React
+- Fundamental data konseptual
 - php Frameworks
- ^ laravel
+  ^ Laraavel
 - Interview
-- flog
+- Vlog
+- phyton
